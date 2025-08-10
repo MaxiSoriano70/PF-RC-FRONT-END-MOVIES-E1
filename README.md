@@ -1,4 +1,4 @@
-# 🪟 Rolling Glass
+# 🔮 Rolling Glass
 
 Proyecto desarrollado como **trabajo práctico** en **Rolling Code School**, dentro de una **beca de formación Bootcamp Full Stack**.  
 Consiste en una página web responsive para un ecommerce especializado en vidrios para el hogar, con secciones de productos destacados, tienda, información sobre la empresa, contacto y login.
